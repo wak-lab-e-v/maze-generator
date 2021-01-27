@@ -36,6 +36,16 @@ The zip will containsa usage test and sample you can use
 
 ## Build
 It's C++, Just import the code in any C++ compatable IDE, MAke sure you have C++11 flags set and build! But if you really lazy:
+
+ * cmake - Open root directory containing `CMakeLists.txt`in shell
+
+   mkdir build
+
+   cd build
+
+   cmake .. 
+
+   cmake --build .
  * CLion - Open root directory containing `CMakeLists.txt`
  * Xcode - Coming Soon!
  * Visual Studio - Coming Soon!
